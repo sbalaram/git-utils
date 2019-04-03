@@ -1,2 +1,2 @@
 # git-utils
-github utils
+github utils - develop
